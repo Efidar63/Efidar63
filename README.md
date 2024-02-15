@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python and Java project.**
 
-- 🌱 I’m currently learning **Python and Java...**
+- 🌱 I’m currently learning **Python, Vue and Java...**
 
 - 📝 I regularly write articles on [https://medium.com/@keskinbicakefidar](https://medium.com/@keskinbicakefidar)
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/efidaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efidaar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/efidar-keskinbicak-a88102226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efidar-keskinbicak-a88102226" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/efidar-keskinbicak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/efidar-keskinbicak" height="30" width="40" /></a>
 <a href="https://instagram.com/efidaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efidaar" height="30" width="40" /></a>
 <a href="https://medium.com/@keskinbicakefidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@keskinbicakefidar" height="30" width="40" /></a>
 </p>
