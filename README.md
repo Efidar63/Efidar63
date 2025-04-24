@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Efidar</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Turkiye</h3>
 
 
-- 🔭 I’m currently working on **Python and Java project.**
+- 🔭 I’m currently working on **Typescript ,Nuxt ,Vue - Web project.**
 
-- 🌱 I’m currently learning **Python, Vue and Java...**
+- 🌱 I’m currently learning **Typescript, Vue and Nuxt...**
 
 - 📝 I regularly write articles on [https://medium.com/@keskinbicakefidar](https://medium.com/@keskinbicakefidar)
 
